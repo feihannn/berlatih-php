@@ -1,2 +1,0 @@
-<?php
-cold_blooded

@@ -11,6 +11,7 @@
     var_dump ($sheep->cold_blooded); // false
 
     echo "----RELEASE 1----\n";
+    echo "----APE----\n";
     $sungokong = new Ape("kera sakti");
     echo $sungokong->name;
     echo "\n";
@@ -19,7 +20,7 @@
     var_dump($sungokong->cold_blooded) ;
     $sungokong->yell(); // "Auooo"
     echo "\n";
-    
+    echo "----FROG----\n";
     $kodok = new Frog("buduk");
     echo $kodok->name;
     echo "\n";
